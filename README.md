@@ -1,0 +1,2 @@
+# Real-Time-Crime-Detection
+This project aims to develop a real-time crime detection technology that can be integrated with any security system to ensure public safety through visual crowd surveillance. By converting CCTVs from an evidence collection tool to a crime prevention and detection tool, our system enhances safety and security. It utilizes deep learning models and computer vision techniques to detect and alert authorities of suspicious activities in real-time, featuring integration with a Django web interface and an email notification system.
